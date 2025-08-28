@@ -39,5 +39,3 @@ Currently, I enjoy working with **SwiftUI** for UI/UX, but I also have experienc
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/sedanuraslan)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sedanuraslan228)
 
-
-✨ Always open to collaborating on **software development, SwiftUI projects, or research on image processing**.  
